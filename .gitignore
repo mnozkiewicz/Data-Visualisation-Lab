@@ -1,0 +1,18 @@
+# Vscode
+.vscode/
+.DS_Store
+
+# python's venv
+venv/
+
+# python's bytecode and report files
+**/__pycache__/
+**/*.html
+**/*.pdf
+**/*.csv
+
+# datasets
+**/fashion_mnist/
+**/saved_images/
+**/data/
+

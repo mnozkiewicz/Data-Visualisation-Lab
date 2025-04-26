@@ -1,0 +1,11 @@
+jupyter
+scikit-learn
+matplotlib
+seaborn
+mnists
+scipy
+numba
+umap-learn
+pacmap
+trimap
+torch
