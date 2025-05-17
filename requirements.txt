@@ -9,3 +9,7 @@ umap-learn
 pacmap
 trimap
 torch
+scanpy
+squidpy
+igraph
+leidenalg 
